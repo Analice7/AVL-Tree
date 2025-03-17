@@ -33,4 +33,5 @@ Para executar:
 ```bash
 ./avl
 ```
-
+## Autor
+Desenvolvido por Analice da Silva Nascimento.
