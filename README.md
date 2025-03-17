@@ -33,7 +33,4 @@ Para executar:
 ```bash
 ./avl
 ```
-## Licença
-
-Este projeto está sob a licença MIT.
 
